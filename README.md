@@ -1,7 +1,7 @@
-# SnakeGame
+# 🐍 SnakeGame
 This is a classic Snake Game built using HTML, CSS, and JavaScript. The game is simple yet fun, featuring sound effects, a current score tracker, and a high score feature to keep track of your best performance.
 
-## Features
+## 🔻Features 
 - **Sound Effects**: Enjoy sound effects when the snake eats food or when the game ends.
 - **Current Score**: Displays the current score as you play.
 - **High Score**: Keeps track of the highest score across game sessions.
